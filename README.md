@@ -6,7 +6,7 @@
 *José Jorge Sierra Molina*  
 *josej.sierra@uexternado.edu.co*
 
-**OBJETIVOS DEL CURSO**
+### OBJETIVOS DEL CURSO
 *	Ampliar los conceptos vistos en el curso de Cálculo I a funciones de varias variables y su aplicación a procesos de optimización.
 
 *	Relacionar el Cálculo Integral con el Cálculo Diferencial mediante el teorema fundamental del cálculo y mostrar su aplicación. 
@@ -19,3 +19,13 @@
 
 *	Reconocer el uso del cálculo integral y de las funciones de varias variables en situaciones propias de la carrera y en aplicaciones de la vida real.
 
+### CONTENIDOS
+
+***CÁLCULO INTEGRAL***
+* Antiderivadas
+* Integración por partes
+* Integración por sustitución
+* Integración por fracciones parciales
+* Aplicaciones: curva de Lorenz y coeficiente de Gini
+* Integral definida
+* Aplicaciones: excedente del consumidor y del productor
