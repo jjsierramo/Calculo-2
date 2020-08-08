@@ -32,7 +32,7 @@
   
   ***CÁLCULO EN VARIAS VARIABLES***
   * Dominios y curvas de nivel
-  * Funciones de varias variables
+  * [Funciones de varias variables](Funciones_de_dos_Variables.html)
   * Derivadas parciales
   * Secciones cónicas
   * Optimización
