@@ -20,7 +20,7 @@
 *	Reconocer el uso del cálculo integral y de las funciones de varias variables en situaciones propias de la carrera y en aplicaciones de la vida real.
 
 ### CONTENIDOS
-
+```
 ***CÁLCULO INTEGRAL***
 * Antiderivadas
 * Integración por partes
@@ -29,3 +29,4 @@
 * Aplicaciones: curva de Lorenz y coeficiente de Gini
 * Integral definida
 * Aplicaciones: excedente del consumidor y del productor
+```
