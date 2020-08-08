@@ -1,7 +1,7 @@
 # CÁLCULO 2
 ### Finanzas, Gobierno y Relaciones Internacionales  
 ## Universidad Externado de Colombia
-
+ 
 ***Docente***  
 *José Jorge Sierra Molina*  
 *josej.sierra@uexternado.edu.co*
