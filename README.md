@@ -3,7 +3,7 @@
 #### [Economía](https://www.uexternado.edu.co/economia/)
 #### [Finanzas, Gobierno y Relaciones Internacionales](https://www.uexternado.edu.co/finanzas-gobierno-y-relaciones-internacionales/)
 ## [Universidad Externado de Colombia](https://www.uexternado.edu.co/)
-## ![Universidad Externado de Colombia](https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/logo-uec.svg)
+## [![Universidad Externado de Colombia](https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/logo-uec.svg)](https://www.uexternado.edu.co/)
  
 ***Docente***  
 *José Jorge Sierra Molina*  
