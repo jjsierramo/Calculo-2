@@ -1,4 +1,4 @@
-# [CÁLCULO 2](https://twitter.com/Calculo2_UEC)
+# [CÁLCULO 2 / MATEMÁTICAS 2](https://twitter.com/Calculo2_UEC)
 #### [Contaduría](https://www.uexternado.edu.co/contaduria-publica/)    
 #### [Economía](https://www.uexternado.edu.co/economia/)    
 #### [Finanzas, Gobierno y Relaciones Internacionales](https://www.uexternado.edu.co/finanzas-gobierno-y-relaciones-internacionales/)    
