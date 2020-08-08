@@ -26,9 +26,9 @@
   ***CÁLCULO INTEGRAL***
   * [Antiderivadas](Antiderivadas.html)
   * [Integración por partes](Integración_por_partes.html)
-  * Integración por sustitución
+  * [Integración por sustitución](IntegracionSustitucion.html)
   * Integración por fracciones parciales
-  * Aplicaciones: curva de Lorenz y coeficiente de Gini
+  * [Aplicaciones: curva de Lorenz y coeficiente de Gini](Coeficiente_de_Gini.html)
   * [Integral definida](Integral_definida_y_áreas.html)
   * [Aplicaciones: excedente del consumidor y del productor](Excedentes.html)
   
@@ -36,8 +36,12 @@
   * Dominios y curvas de nivel
   * [Funciones de varias variables](Funciones_de_dos_Variables.html)
   * [Derivadas parciales](Derivadas_Parciales.html)
+        * [Aplicaciones parte 1](Derivadas_parciales_Ejercicios_est.html)
+        * [Aplicaciones parte 2](Derivadas_parciales_Ejercicios.html)
   * Secciones cónicas
-  * [Optimización](Optimizaciónvv.html)
+  * Optimización
+        * [Parte 1](Optimizaciónvv.html)
+        * [Parte 2](Optimizaciónvv_est.html)
   
 
 
