@@ -35,12 +35,12 @@
   ***CÁLCULO EN VARIAS VARIABLES***
   * Dominios y curvas de nivel
   * [Funciones de varias variables](Funciones_de_dos_Variables.html)
-  * [Derivadas parciales](Derivadas_Parciales.html)
-        * [Aplicaciones parte 1](Derivadas_parciales_Ejercicios_est.html)
+  * [Derivadas parciales](Derivadas_Parciales.html)  
+        * [Aplicaciones parte 1](Derivadas_parciales_Ejercicios_est.html)  
         * [Aplicaciones parte 2](Derivadas_parciales_Ejercicios.html)
   * Secciones cónicas
-  * Optimización
-        * [Parte 1](Optimizaciónvv.html)
+  * Optimización  
+        * [Parte 1](Optimizaciónvv.html)  
         * [Parte 2](Optimizaciónvv_est.html)
   
 
