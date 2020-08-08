@@ -30,7 +30,7 @@
   * Integral definida
   * Aplicaciones: excedente del consumidor y del productor
   
-  ***CÁLCULO VARIAS VARIABLES***
+  ***CÁLCULO EN VARIAS VARIABLES***
   * Dominios y curvas de nivel
   * Funciones de varias variables
   * Derivadas parciales
