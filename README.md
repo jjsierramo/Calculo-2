@@ -21,7 +21,7 @@
 
 ### CONTENIDOS
 
- ***CÁLCULO INTEGRAL***
+  ***CÁLCULO INTEGRAL***
   * Antiderivadas
   * Integración por partes
   * Integración por sustitución
@@ -29,4 +29,13 @@
   * Aplicaciones: curva de Lorenz y coeficiente de Gini
   * Integral definida
   * Aplicaciones: excedente del consumidor y del productor
+  
+  ***CÁLCULO VARIAS VARIABLES***
+  * Dominios y curvas de nivel
+  * Funciones de varias variables
+  * Derivadas parciales
+  * Secciones cónicas
+  * Optimización
+  
+
 
