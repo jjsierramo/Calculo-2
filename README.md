@@ -30,7 +30,7 @@
   * Integración por fracciones parciales
   * Aplicaciones: curva de Lorenz y coeficiente de Gini
   * [Integral definida](Integral_definida_y_áreas.html)
-  * Aplicaciones: excedente del consumidor y del productor
+  * [Aplicaciones: excedente del consumidor y del productor](Excedentes.html)
   
   ***CÁLCULO EN VARIAS VARIABLES***
   * Dominios y curvas de nivel
