@@ -25,19 +25,19 @@
 
   ***CÁLCULO INTEGRAL***
   * [Antiderivadas](Antiderivadas.html)
-  * Integración por partes
+  * [Integración por partes](Integración_por_partes.html)
   * Integración por sustitución
   * Integración por fracciones parciales
   * Aplicaciones: curva de Lorenz y coeficiente de Gini
-  * Integral definida
+  * [Integral definida](Integral_definida_y_áreas.html)
   * Aplicaciones: excedente del consumidor y del productor
   
   ***CÁLCULO EN VARIAS VARIABLES***
   * Dominios y curvas de nivel
   * [Funciones de varias variables](Funciones_de_dos_Variables.html)
-  * Derivadas parciales
+  * [Derivadas parciales](Derivadas_Parciales.html)
   * Secciones cónicas
-  * Optimización
+  * [Optimización](Optimizaciónvv.html)
   
 
 
