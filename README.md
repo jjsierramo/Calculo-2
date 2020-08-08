@@ -1,9 +1,8 @@
 # [CÁLCULO 2](https://twitter.com/Calculo2_UEC)
-#### [Contaduría](https://www.uexternado.edu.co/contaduria-publica/)
-#### [Economía](https://www.uexternado.edu.co/economia/)
-#### [Finanzas, Gobierno y Relaciones Internacionales](https://www.uexternado.edu.co/finanzas-gobierno-y-relaciones-internacionales/)
-## [Universidad Externado de Colombia](https://www.uexternado.edu.co/)
-## [![Universidad Externado de Colombia](https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/logo-uec.svg)](https://www.uexternado.edu.co/)
+#### [Contaduría](https://www.uexternado.edu.co/contaduria-publica/)    
+#### [Economía](https://www.uexternado.edu.co/economia/)    
+#### [Finanzas, Gobierno y Relaciones Internacionales](https://www.uexternado.edu.co/finanzas-gobierno-y-relaciones-internacionales/)    
+## [![Universidad Externado de Colombia](https://www.uexternado.edu.co/wp-content/themes/externado_theme/images/logo-uec.svg)](https://www.uexternado.edu.co/)  
  
 ***Docente***  
 *José Jorge Sierra Molina*  
